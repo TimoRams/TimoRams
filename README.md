@@ -9,4 +9,4 @@
 
 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=TimoRams)](https://github.com/anuraghazra/github-readme-stats)
