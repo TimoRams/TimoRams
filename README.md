@@ -1,4 +1,4 @@
-## Hey, I'm [Timo] aka. TimoRams 👋
+## Hey, I'm Timo aka. TimoRams 👋
 
 
 - 🔭 I’m currently working on EECB(Ever Equals Chat Bot)
