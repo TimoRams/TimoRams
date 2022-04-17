@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on EECB(Ever Equals Chat Bot)
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help to make my discordpy bot better.
 - 📫 How to reach me: timorams@hotmail.com
 
 Stats
