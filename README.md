@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on EECB(Ever Equals Chat Bot)
-- 🌱 I’m currently learning Java
+
 - 📫 How to reach me: timorams@hotmail.com
 
 Stats
