@@ -1,7 +1,8 @@
 ## Hey, I'm Timo aka. TimoRams 👋
 
+- 📖 Currently improving my c skills
 
-- 🔭 I’m currently working on EECB(Ever Equals Chat Bot)
+- 🔭 I’m currently working on an ESP32-C6 based multitool device.
 
 - 📫 How to reach me: timorams@hotmail.com
 
