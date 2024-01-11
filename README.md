@@ -6,9 +6,11 @@
 
 - 📫 How to reach me: timorams@hotmail.com
 
-Stats
+## 📊 GitHub Stats
 
-[![TimoRams's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimoRams)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TimoRams&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" height="150" width="35%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoRams&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimoRams&theme=dracula&hide_border=false" height="150" width="35%">
+</p>
