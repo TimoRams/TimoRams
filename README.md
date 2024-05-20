@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an ESP32-C6 based multitool device.
 
-- 📫 How to reach me: timorams@hotmail.com
+- 📫 How to reach me: tramsbrock@gmail.com
 
 ## 📊 GitHub Stats
 
